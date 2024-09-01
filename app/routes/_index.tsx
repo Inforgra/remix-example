@@ -10,8 +10,8 @@ export const meta: MetaFunction = () => {
 
 export default function Index() {
   return (
-    <div className="container mx-auto mt-24">
-      <div className="flex">
+    <div className="container mx-auto mt-8">
+      <div className="flex justify-center">
         <Dropdown />
       </div>
     </div>
